@@ -13,7 +13,6 @@ This is a basic project made as part of the foundations course on **The Odin Pro
   - *headings*
   - *anchor*
   - *images*
-- The use of attributes:
 - *The use of attributes:*
   - *language*
   - *charset*
