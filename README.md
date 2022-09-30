@@ -1,5 +1,5 @@
 # HTML foundations
-This is a basic project made as part of the foundations course on **The Odin Project**.
+This is a basic project made as part of the foundations course on **The Odin Project**
 
 ## Some of the things that I used in this assignment:
 
@@ -8,12 +8,11 @@ This is a basic project made as part of the foundations course on **The Odin Pro
 - Absolute and relative links
 - Git commands and commits
 - The use of tags:
-- *The use of tags:*
   - *paragraphs*
   - *headings*
   - *anchor*
   - *images*
-- *The use of attributes:*
+- The use of attributes:
   - *language*
   - *charset*
   - *alternative text*
